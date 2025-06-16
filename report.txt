@@ -1,0 +1,151 @@
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene002.vs'
+-------------------------------------------------------------------------------
+zasady_gry.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Video000.vv'
+-------------------------------------------------------------------------------
+cutscenka.mkv
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Character000.vc'
+-------------------------------------------------------------------------------
+postac/player-1.png
+postac/player-2.png
+postac/player-3.png
+postac/player-4.png
+postac/player-5.png
+postac/player-6.png
+postac/player-7.png
+postac/player-8.png
+postac/player-9.png
+postac/player-10.png
+postac/player-11.png
+postac/player-12.png
+postac/player-14.png
+postac/player-13.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene004.vs'
+-------------------------------------------------------------------------------
+mapka1/background1-1 2.png
+zasady gry/background1-1 2.png
+plecak/background2-1.png
+mapka1/background1-4 2.png
+mapka1/background1-5 2.png
+mapka1/background1-7 2.png
+mapka1/background1-2 2.png
+mapka1/background1-3 2.png
+mapka1/background1-6 2.png
+mapka1/background1-8 2.png
+mapka1/background1-10 2.png
+mapka1/background1-11 2.png
+mapka1/background1-12 2.png
+mapka1/background1-13 2.png
+mapka1/background1-14 2.png
+mapka1/background1-15 2.png
+mapka1/background1-9 2.png
+mapka1/background1-16 2.png
+titlescren/background1.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene000.vs'
+-------------------------------------------------------------------------------
+titlescren/titlescreen-1.png
+Slow-Piano-Background-Music-No-Copyrights-_-Millennials-Melody-Originals.ogg
+titlescren/titlescreen-2.png
+titlescren/titlescreen-3.png
+titlescren/titlescreen-4.png
+koniec-1 2.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene001.vs'
+-------------------------------------------------------------------------------
+zasady gry/zasady_gry-1 2.png
+zasady gry/zasady_gry-1 2-kopia.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene005.vs'
+-------------------------------------------------------------------------------
+mapka2/background2-1.png
+mapka2/background2-8.png
+mapka2/background2-2.png
+mapka2/background2-6.png
+background2-1-kopia.png
+mapka2/background2-3.png
+mapka2/background2-7.png
+mapka2/background2-4.png
+background2-2.png
+mapka2/background2-5.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene003.vs'
+-------------------------------------------------------------------------------
+titlescren/koniec-1.png
+titlescren/koniec-2.png
+titlescren/koniec-3.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\Scene006.vs'
+-------------------------------------------------------------------------------
+titlescren/inventory-1 2.png
+titlescren/inventory-3 2.png
+inventory/inventory-18 2.png
+plecak/inventory-1 4.png
+inventory/inventory-17 2.png
+plecak/inventory-2 4.png
+inventory/inventory-16 2.png
+plecak/inventory-3 4.png
+inventory/inventory-15 2.png
+plecak/inventory-4 4.png
+inventory/inventory-14 2.png
+plecak/inventory-5 4.png
+inventory/inventory-13 2.png
+plecak/inventory-6 4.png
+inventory/inventory-12 2.png
+plecak/inventory-7 4.png
+inventory/inventory-10 2.png
+plecak/inventory-8 4.png
+inventory/inventory-11 2.png
+plecak/inventory-9 4.png
+inventory/inventory-9 2.png
+plecak/inventory-10 4.png
+inventory/inventory-8 2.png
+plecak/inventory-11 4.png
+inventory/inventory-7 2.png
+plecak/inventory-12 4.png
+inventory/inventory-6 2.png
+plecak/inventory-13 4.png
+inventory/inventory-5 2.png
+plecak/inventory-14 4.png
+inventory/inventory-4 2.png
+plecak/inventory-15 4.png
+inventory/inventory-3 2.png
+plecak/inventory-16 4.png
+postac/inventory 2.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\LAB-F\Desktop\s31916_graVisionaire\s31916_Pocztówki_Z_Pustyni_Gobi.vis'
+-------------------------------------------------------------------------------
+times new roman.ttf
+inventory/inventory-klucz.png
+kursory/strzałka.PNG
+kursory/pytanie.PNG
+kursory/oko.PNG
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Character000.vc 0 pan gwidon
+
+Scene000.vs 0 menu
+
+Scene001.vs 4 zasady gry
+
+Scene002.vs 5 o autorze
+
+Scene003.vs 6 koniec
+
+Scene004.vs 1 scene1
+
+Scene005.vs 2 scene2
+
+Scene006.vs 3 album
+
+Video000.vv 225 Play video 'cutscenka.mkv'
+
+s31916_Pocztówki_Z_Pustyni_Gobi.vis 0 
+
